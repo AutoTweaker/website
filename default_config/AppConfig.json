@@ -1,0 +1,1 @@
+[{"key":"core.agent.tool.response.canceled","value":{"type":"io.github.autotweaker.core.data.settings.SettingItem.Value.ValString","value":"工具调用已取消"},"description":"工具调用被取消时的ToolResult"}]

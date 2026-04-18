@@ -1,1 +1,6 @@
-[{"default_app_config":"https://autotweaker.github.io/website/default_config/AppConfig.json","version":"dev"}]
+[
+  {
+    "default_app_config": "https://autotweaker.github.io/website/default_config/AppConfig.json",
+    "version": "dev"
+  }
+]

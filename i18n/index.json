@@ -1,0 +1,6 @@
+{
+  "cli-adapter": [
+    "i18n/cli-adapter/messages.properties",
+    "i18n/cli-adapter/messages_zh_CN.properties"
+  ]
+}

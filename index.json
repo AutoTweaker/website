@@ -1,1 +1,10 @@
-[{"default_app_config":"https://autotweaker.github.io/website/default_config/AppConfig.json","version":"0.1.0-alpha.3"},{"repository_url":{"core":"https://github.com/AutoTweaker/core","website":"https://github.com/AutoTweaker/website"},"organization_url":"https://github.com/AutoTweaker","version":"0.1.0-alpha.3"}]
+{
+  "default_app_config": {
+    "url": "default_config/AppConfig.json",
+    "version": "1"
+  },
+  "i18n_index": "i18n/index.json",
+  "projects_version": {
+    "core": "0.1.0-alpha.3"
+  }
+}
